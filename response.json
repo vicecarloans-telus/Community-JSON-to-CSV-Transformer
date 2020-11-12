@@ -1,0 +1,123 @@
+{
+    "status": "success",
+    "message": "",
+    "http_code": 200,
+    "data": [
+        {
+            "type": "batch_item",
+            "call_type": "query",
+            "name": "messages",
+            "successful": true,
+            "response": {
+                "type": "messages",
+                "list_item_type": "message",
+                "size": 5,
+                "items": [
+                    {
+                        "type": "message",
+                        "author": {
+                            "type": "user",
+                            "login": "Anonymous",
+                            "email": ""
+                        },
+                        "subject": "Re: Poll Test",
+                        "kudos": {
+                            "type": "kudos",
+                            "list_item_type": "kudo",
+                            "size": 0,
+                            "items": []
+                        }
+                    },
+                    {
+                        "type": "message",
+                        "author": {
+                            "type": "user",
+                            "login": "Anonymous",
+                            "email": ""
+                        },
+                        "subject": "Re: Poll Test",
+                        "kudos": {
+                            "type": "kudos",
+                            "list_item_type": "kudo",
+                            "size": 1,
+                            "items": [
+                                {
+                                    "type": "kudo",
+                                    "user": {
+                                        "type": "user",
+                                        "login": "Huy_D_Staging",
+                                        "email": "huy.dam@telus.com"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "message",
+                        "author": {
+                            "type": "user",
+                            "login": "Anonymous",
+                            "email": ""
+                        },
+                        "subject": "Re: Poll Test",
+                        "kudos": {
+                            "type": "kudos",
+                            "list_item_type": "kudo",
+                            "size": 0,
+                            "items": []
+                        }
+                    },
+                    {
+                        "type": "message",
+                        "author": {
+                            "type": "user",
+                            "login": "Anonymous",
+                            "email": ""
+                        },
+                        "subject": "Re: Poll Test",
+                        "kudos": {
+                            "type": "kudos",
+                            "list_item_type": "kudo",
+                            "size": 1,
+                            "items": [
+                                {
+                                    "type": "kudo",
+                                    "user": {
+                                        "type": "user",
+                                        "login": "Huy_D_Staging",
+                                        "email": "huy.dam@telus.com"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "message",
+                        "author": {
+                            "type": "user",
+                            "login": "Anonymous",
+                            "email": ""
+                        },
+                        "subject": "Poll Test",
+                        "kudos": {
+                            "type": "kudos",
+                            "list_item_type": "kudo",
+                            "size": 1,
+                            "items": [
+                                {
+                                    "type": "kudo",
+                                    "user": {
+                                        "type": "user",
+                                        "login": "Huy_D_Staging",
+                                        "email": "huy.dam@telus.com"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {}
+}
